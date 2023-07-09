@@ -38,8 +38,4 @@ python clock_app.py
 
 Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novas funcionalidades ao aplicativo, fique à vontade para fazer um fork deste repositório e enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
